@@ -37,20 +37,25 @@
 
 ---
 
-## What I excel at
-
-* AI & Machine Learning
-* Fullstack Web Development
-* Competitive Programming
-* Data Structures & Algorithms
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antorippaul&theme=tokyonight" />
-</p>
+<div align="center">
+  <h4>Skills & Stats</h4>
+  <table>
+    <tr valign="center">
+      <td>
+        <ul>
+          <p><b>What I excel at:</b></p>
+          <li>AI & Machine Learning</li>
+          <li>Fullstack Web Development</li>
+          <li>Competitive Programming</li>
+          <li>Data Structures & Algorithms</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=antorippaul&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
