@@ -89,6 +89,7 @@
         <img src="https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00FFFF" alt="C++"/>
       </p>
       <kbd>🚀 Dec 2023</kbd>
+      <p>‎ </p>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/yourusername/project3">
@@ -101,6 +102,7 @@
         <img src="https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FF00FF" alt="Docker"/>
       </p>
       <kbd>🚀 Jan 2024</kbd>
+      <p>‎ </p>
     </td>
   </tr>
   <tr>
@@ -128,9 +130,10 @@
         <img src="https://img.shields.io/badge/-TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=7D2AE8" alt="Tensorflow"/>
       </p>
       <kbd>🚀 May 2024</kbd>
+      <p>‎ </p>
     </td>
     <td align="center" width="33%" valign="center">
-      <h3><a href="https://github.com/yourusername/project6">View All Projects</a></h3>
+      <h3><a href="https://github.com/antorippaul?tab=repositories">View All Projects</a></h3>
     </td>
   </tr>
 </table>
