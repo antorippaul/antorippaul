@@ -47,7 +47,7 @@
           <li>AI & Machine Learning</li>
           <li>Fullstack Web Development</li>
           <li>Competitive Programming</li>
-          <li>Data Structures & Algorithms</li>
+          <li>Building Real Projects</li>
         </ul>
       </td>
       <td>
@@ -76,6 +76,7 @@
         <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FF0055" alt="Python"/>
       </p>
       <kbd>🚀 Oct 2023</kbd>
+      <p>‎ </p>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/yourusername/project2">
@@ -108,12 +109,13 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF0055&height=10" width="100%" alt="gradient line"/>
       </a>
       <h3><a href="https://github.com/yourusername/project4">Glitch_Grid</a></h3>
-      <blockquote>Automated CSS distortion and databending toolkit for UI designers.</blockquote>
+      <blockquote>Automated CSS distortion toolkit for UI designers.</blockquote>
       <p>
         <img src="https://img.shields.io/badge/-Sass-0A0A0A?style=for-the-badge&logo=sass&logoColor=FF0055" alt="Sass"/>
         <img src="https://img.shields.io/badge/-Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=00FFFF" alt="Figma"/>
       </p>
       <kbd>🚀 Mar 2024</kbd>
+      <p>‎ </p>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/yourusername/project5">
@@ -127,17 +129,8 @@
       </p>
       <kbd>🚀 May 2024</kbd>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project6">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB300,100:FF0055&height=10" width="100%" alt="gradient line"/>
-      </a>
-      <h3><a href="https://github.com/yourusername/project6">Data_Heist</a></h3>
-      <blockquote>A decentralized, secure peer-to-peer file transfer protocol.</blockquote>
-      <p>
-        <img src="https://img.shields.io/badge/-Solidity-0A0A0A?style=for-the-badge&logo=solidity&logoColor=FFB300" alt="Solidity"/>
-        <img src="https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=39FF14" alt="Node"/>
-      </p>
-      <kbd>🚀 Aug 2024</kbd>
+    <td align="center" width="33%" valign="center">
+      <h3><a href="https://github.com/yourusername/project6">View All Projects</a></h3>
     </td>
   </tr>
 </table>
