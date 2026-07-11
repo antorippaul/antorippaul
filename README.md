@@ -66,74 +66,74 @@
 <table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project1">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0055,100:00FFFF&height=10" width="100%" alt="gradient line"/>
+      <a href="Placeholder">
+        <img src="Placeholder" width="100%" alt="Placeholder"/>
       </a>
-      <h3><a href="https://github.com/yourusername/project1">Neon_Nexus</a></h3>
-      <blockquote>A high-octane neural network visualizer built for the modern web.</blockquote>
+      <h3><a href="Placeholder">Placeholder</a></h3>
+      <blockquote>Placeholder</blockquote>
       <p>
-        <img src="https://img.shields.io/badge/-React-0A0A0A?style=for-the-badge&logo=react&logoColor=00FFFF" alt="React"/>
-        <img src="https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FF0055" alt="Python"/>
+        <img src="Placeholder" alt="Placeholder"/>
+        <img src="Placeholder" alt="Placeholder"/>
       </p>
-      <kbd>🚀 Oct 2023</kbd>
-      <p>‎ </p>
+      <kbd>Placeholder</kbd>
+      <p>Placeholder</p>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project2">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:00FFFF&height=10" width="100%" alt="gradient line"/>
+      <a href="Placeholder">
+        <img src="Placeholder" width="100%" alt="Placeholder"/>
       </a>
-      <h3><a href="https://github.com/yourusername/project2">Synth_Core</a></h3>
-      <blockquote>Real-time audio processing API with a retrowave synthesizer interface.</blockquote>
+      <h3><a href="Placeholder">Placeholder</a></h3>
+      <blockquote>Placeholder</blockquote>
       <p>
-        <img src="https://img.shields.io/badge/-Vue.js-0A0A0A?style=for-the-badge&logo=vuedotjs&logoColor=39FF14" alt="Vue"/>
-        <img src="https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00FFFF" alt="C++"/>
+        <img src="Placeholder" alt="Placeholder"/>
+        <img src="Placeholder" alt="Placeholder"/>
       </p>
-      <kbd>🚀 Dec 2023</kbd>
-      <p>‎ </p>
+      <kbd>Placeholder</kbd>
+      <p>Placeholder</p>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project3">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:FFB300&height=10" width="100%" alt="gradient line"/>
+      <a href="Placeholder">
+        <img src="Placeholder" width="100%" alt="Placeholder"/>
       </a>
-      <h3><a href="https://github.com/yourusername/project3">NightCity_CLI</a></h3>
-      <blockquote>A blazingly fast terminal dashboard for system monitoring.</blockquote>
+      <h3><a href="Placeholder">Placeholder</a></h3>
+      <blockquote>Placeholder</blockquote>
       <p>
-        <img src="https://img.shields.io/badge/-Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=FFB300" alt="Rust"/>
-        <img src="https://img.shields.io/badge/-Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FF00FF" alt="Docker"/>
+        <img src="Placeholder" alt="Placeholder"/>
+        <img src="Placeholder" alt="Placeholder"/>
       </p>
-      <kbd>🚀 Jan 2024</kbd>
-      <p>‎ </p>
+      <kbd>Placeholder</kbd>
+      <p>Placeholder</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project4">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF0055&height=10" width="100%" alt="gradient line"/>
+      <a href="Placeholder">
+        <img src="Placeholder" width="100%" alt="Placeholder"/>
       </a>
-      <h3><a href="https://github.com/yourusername/project4">Glitch_Grid</a></h3>
-      <blockquote>Automated CSS distortion toolkit for UI designers.</blockquote>
+      <h3><a href="Placeholder">Placeholder</a></h3>
+      <blockquote>Placeholder</blockquote>
       <p>
-        <img src="https://img.shields.io/badge/-Sass-0A0A0A?style=for-the-badge&logo=sass&logoColor=FF0055" alt="Sass"/>
-        <img src="https://img.shields.io/badge/-Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=00FFFF" alt="Figma"/>
+        <img src="Placeholder" alt="Placeholder"/>
+        <img src="Placeholder" alt="Placeholder"/>
       </p>
-      <kbd>🚀 Mar 2024</kbd>
-      <p>‎ </p>
+      <kbd>Placeholder</kbd>
+      <p>Placeholder</p>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/yourusername/project5">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7D2AE8,100:00FFFF&height=10" width="100%" alt="gradient line"/>
+      <a href="Placeholder">
+        <img src="Placeholder" width="100%" alt="Placeholder"/>
       </a>
-      <h3><a href="https://github.com/yourusername/project5">Cyber_Defend</a></h3>
-      <blockquote>An open-source network packet sniffer with AI anomaly detection.</blockquote>
+      <h3><a href="Placeholder">Placeholder</a></h3>
+      <blockquote>Placeholder</blockquote>
       <p>
-        <img src="https://img.shields.io/badge/-Go-0A0A0A?style=for-the-badge&logo=go&logoColor=00FFFF" alt="Go"/>
-        <img src="https://img.shields.io/badge/-TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=7D2AE8" alt="Tensorflow"/>
+        <img src="Placeholder" alt="Placeholder"/>
+        <img src="Placeholder" alt="Placeholder"/>
       </p>
-      <kbd>🚀 May 2024</kbd>
-      <p>‎ </p>
+      <kbd>Placeholder</kbd>
+      <p>Placeholder</p>
     </td>
     <td align="center" width="33%" valign="center">
-      <h3><a href="https://github.com/antorippaul?tab=repositories">View All Projects</a></h3>
+      <h3><a href="Placeholder">Placeholder</a></h3>
     </td>
   </tr>
 </table>
